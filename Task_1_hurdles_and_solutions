@@ -1,0 +1,23 @@
+AI Tasks: Hurdles Faced and Their Solutions
+Name: Muhammad Ali  |  Roll Number: 016  |  Section: BSAI-3A
+Task 1: A Concise Timeline of Five AI Milestones
+Hurdle 1: Selecting important milestones from a long history of AI.
+Solution: I selected five milestones that show different stages in AI development: the Dartmouth Workshop (1956), the first AI winter (1974–1980), Deep Blue (1997), the ImageNet/AlexNet breakthrough (2012), and the Transformer architecture (2017).
+Hurdle 2: Explaining why each event mattered without making the timeline too lengthy.
+Solution: For each milestone, I separated the year, event, and significance, then summarized its contribution in a few clear sentences.
+Hurdle 3: Keeping historical claims connected to sources.
+Solution: I listed sources alongside the milestones so the key claims could be checked and researched further.
+Task 2: Turing Test — Scholarship Case
+Hurdle 1: Distinguishing human-like conversation from genuine intelligence.
+Solution: I explained that passing a conversational test can show fluent, context-sensitive language, but it does not by itself prove broad understanding, factual accuracy, or general intelligence.
+Hurdle 2: Showing how a fluent answer can still be wrong.
+Solution: I used a scholarship example in which an AI makes an assumption about an applicant’s first-generation status or the scholarship’s criteria. This demonstrates why claims must be checked against the actual rules and evidence.
+Hurdle 3: Proposing a stronger way to evaluate the system.
+Solution: I proposed testing whether the AI can repeatedly review scholarship rules, identify eligibility requirements, request missing information, calculate eligibility, and produce reliable results across different cases.
+Task 3: Rule-Based Scholarship Decision System
+Hurdle 1: Converting eligibility requirements into program conditions.
+Solution: I represented the score, document status, attendance, and interview score as object attributes, then combined the required thresholds using logical AND conditions.
+Hurdle 2: Making sure every required condition is checked.
+Solution: The system returns “pass” only when the score is at least 70, documents are “complete,” attendance is at least 75, and interview score is at least 60. If any one condition fails, it returns “fail.”
+Hurdle 3: Checking the system with different examples, especially boundary values.
+Solution: I tested three cases: one that fails because attendance is below 75, one that fails because the interview score is below 60, and one that meets all thresholds exactly or above and passes.
